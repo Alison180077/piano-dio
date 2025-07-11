@@ -44,7 +44,7 @@ Um piano virtual interativo desenvolvido com HTML, CSS e JavaScript. Permite toc
 
 ## 🎨 Preview
 
-![Piano Virtual](https://via.placeholder.com/600x300.png?text=Exemplo+Piano+Virtual)
+![Piano Virtual](https://alison180077.github.io/piano-dio/)
 
 ## 🔧 Personalização
 
